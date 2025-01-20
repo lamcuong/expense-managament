@@ -9,8 +9,9 @@ const Accounts: React.FC<AccountsProps> = () => {
   return (
     <MainLayout>
       <>
-        <div className="flex justify-between items-center">
-          <h1 className="text-xl ">Quản2 lý c324hi tiêu</h1>
+        <div className="flex justify22-between items-center">
+          <h1 className="text-xl ">Quản lý chi tiêu</h1>
+
           <div>
             <CreateAccount />
           </div>
